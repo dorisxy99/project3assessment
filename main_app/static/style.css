@@ -1,0 +1,53 @@
+body {
+margin-top: 20px;
+font-size: 40px;
+}
+
+form {
+    text-align: center;
+    font-family: fantasy;
+    color: darkorchid;
+}
+
+table {
+    margin: 2rem auto;
+    text-align: center;
+    font-family: fantasy;
+    color: rgb(36, 11, 97);
+}
+
+table a {
+    color: rgb(138, 36, 104);
+    text-decoration: none;
+}
+
+ul {
+    text-align: center;
+    font-family: fantasy;
+    display: contents;
+    color: darkorchid;
+}
+
+li {
+    margin-bottom: inherit;
+}
+
+p {
+    text-align: center;
+    font-family: fantasy;
+    color: rgb(196, 51, 26);
+}
+
+th {
+    padding-left: 20px;
+}
+
+/* th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+} */
+
+.delete {
+    margin-left: 20px;
+}
